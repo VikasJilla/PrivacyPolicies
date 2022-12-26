@@ -16,6 +16,6 @@ The app does not require any permissions to work.
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
 Yours sincerely,  
-Vikas Jilla
-Jillavikas@gmail.com
-Karimnagar, India
+Vikas Jilla<br/>
+Jillavikas@gmail.com<br/>
+Karimnagar, India<br/>
